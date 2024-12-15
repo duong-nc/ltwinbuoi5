@@ -1,0 +1,10 @@
+D:\doanwinforms\buoi5\obj\Debug\buoi5.csproj.AssemblyReference.cache
+D:\doanwinforms\buoi5\obj\Debug\buoi5.Form1.resources
+D:\doanwinforms\buoi5\obj\Debug\buoi5.Properties.Resources.resources
+D:\doanwinforms\buoi5\obj\Debug\buoi5.csproj.GenerateResource.cache
+D:\doanwinforms\buoi5\obj\Debug\buoi5.csproj.CoreCompileInputs.cache
+D:\doanwinforms\buoi5\bin\Debug\buoi5.exe.config
+D:\doanwinforms\buoi5\bin\Debug\buoi5.exe
+D:\doanwinforms\buoi5\bin\Debug\buoi5.pdb
+D:\doanwinforms\buoi5\obj\Debug\buoi5.exe
+D:\doanwinforms\buoi5\obj\Debug\buoi5.pdb
